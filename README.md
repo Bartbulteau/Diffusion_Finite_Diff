@@ -12,3 +12,5 @@ T = T_{b} \text{ on } \partial\Omega
 
 \end{cases}
 ```
+
+Where $\Omega = [0,1]^3$
