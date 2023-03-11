@@ -17,5 +17,5 @@ Where $\Omega = [0,1]^3$.
 
 ## Simulation method
 
-In order discretize the problem, we introduce the length $L$ and the time $\Delta t$ and we discretize the domain $\Omega$ with steps of $\frac{1}{L}$ in space and $\frac{1}{\Delta t}$ in time. We also introduce the notation : $\forall (i,j, k) \in \left \{ 1...L \right \}^2 \times \left\{1...\Delta t \right\}, T_{ij}^k = T\left\(\frac{i}{L}, \frac{j}{L}, \frac{k}{\Delta t}\right\)$
+In order discretize the problem, we introduce the length $L$ and the time $\Delta t$ and we discretize the domain $\Omega$ with steps of $\frac{1}{L}$ in space and $\frac{1}{\Delta t}$ in time. We also introduce the notation : $\forall (i,j, k) \in \left \{ 1...L \right \}^2 \times \left \{1...\Delta t \right\}, T_{ij}^k = T\left\(\frac{i}{L}, \frac{j}{L}, \frac{k}{\Delta t}\right\)$
 
